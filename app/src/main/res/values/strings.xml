@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MillenialTrash</string>
+    <string name="deskripsi_jenis"> Berikut jenis atau kategori sampah yang dapat dijual dalam Aplikasi Millenial Trash : </string>
+    <string name="logam"><b>2. Logam </b>\n\nLogam termasuk limbah yang paling mudah untuk didaur ulang, Limbah logam yang dapat dijual bisa seperti besi, aluminium, tembaga dan seng.\n<b>Harga Jual Logam per Kilo : Rp. 10.000 </b> </string>
+    <string name="Plastik"><b>1. Plastik </b>\n\nPlastik tergolong sebagai sumber permasalahan utama dalam kelestarian dunia. Jenis plastik yang dapat dijual seperti PET (botol air mineral), HDPR (botol shampoo, kresek atau trash bag), PVC (pipa), HDPE (pembungkus makanan ), PP (air mineral gelas), PS (styrofoam) dan sampah kemasan sachet, pouch dan lainnya.\n<b>Harga Jual Plastik per Kilo : Rp. 5000 </b> </string>
+    <string name="Kertas"><b>3. Kertas </b>\n\nDaur Ulang Kertas salah satu proses yang paling penting dalam melestarikan lingkungan. Hampir semua jenis kertas dapat dijual seperti koran, majalah, katalog, surat, kertas kado, dan karton. Kecuali tisu dan kertas yang dilapisi lilin seperti kertas nasi.\n<b>Harga Jual Kertas per Kilo : Rp. 1700 </b> </string>
+    <string name="Duplex"><b>4. Duplex </b>\n\nKertas duplex adalah salah satu jenis kertas yang sering digunakan sebagai kemasan produk. Misalnya seperti kardus, kotak kemasan susu, kotak makanan, kue, buah, dan lainnya (Pastikan cuci bagian dalamnya untuk menghindari bau menyengat).\n<b>Harga Jual Duplex per Kilo : Rp. 1500 </b>  </string>
+    <string name="Minyak_Jelantah"><b> 5. Minyak Jelantah </b>\n\nMinyak jelantah memiliki banyak manfaat untuk didaur ulang. Adapun jenis minyak yang dapat didaur ulang, seperti Minyak goreng sisa dari kegiatan masak-memasak.\n<b>Harga Jual Minyak Jelantah per Liter : Rp. 4000 </b> </string>
+
+    <string-array name="kategori_sampah">
+        <item>Plastik</item>
+        <item>Logam</item>
+        <item>Kertas</item>
+        <item>Duplex</item>
+        <item>MinyakJelantah</item>
+    </string-array>
+
+    <string-array name="harga_perkilo">
+        <item>5000</item>
+        <item>10000</item>
+        <item>1700</item>
+        <item>1500</item>
+        <item>4000</item>
+    </string-array>
+
+</resources>
